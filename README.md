@@ -101,8 +101,8 @@ Save as `json-cnl.schema.json`:
 
 ## Examples
 - `examples/user_evaluation.json` — user evaluation.
-- `examples/roadmap.json` — DVE roadmap.
-- `examples/opsec.json` — NDA and OPSEC templates.
+- `examples/roadmap.json` — ANY roadmap.
+- `examples/opsec.json` — OPSEC templates.
 
 ---
 
